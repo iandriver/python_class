@@ -1,11 +1,1 @@
-‘file_y_test’ contains 500 directories each with the format “Sample_6digit random string’.
-Within each directory is a text file of the format ‘fastq_001_6digit random string’.  In each text file is a 6 digit random string.  
-
-Instructions for problem 1:
-Write a function that finds and returns the directory and file that contain the string ‘8IPLEQ’.
-
-Instructions for problem2:
-Create a csv file with all of the 6 digit strings organized by:
-
-Directory   Filename   text
-string1     string2    string3
+The python file ‘find_files.py’ contains a few examples of methods for navigating file trees and opening and reading files. Open the file and play run/edit it to learn file opening also see the python documentation for more info: https://docs.python.org/2/library/os.html?highlight=os.walk#os.walk
