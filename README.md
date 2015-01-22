@@ -1,5 +1,7 @@
 # python_class
-files for UCSF Cell Hackers Class
+Files for UCSF Cell Hackers Class
+
+Download to your computer to run and edit scripts
 
 open_read_close_file contains a script for practicing/learning basic file opening and reading
 
