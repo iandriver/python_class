@@ -10,4 +10,4 @@ Create a csv file with all of the 6 digit strings organized by:
 Directory   Filename   text
 string1     string2    string3
 
-*Solution files are also included, please try finding your own solution before looking at them 
+*Solution files will be included later, please try finding your own solution before looking at them 
