@@ -9,8 +9,8 @@
 #example to play with:
 
 o_file = open('method1.txt', 'rwb')
-print 'see that the open file is an object in memory:'
-print o_file
+print '\nsee that the open file is an object in memory:'
+print o_file, '\n'
 #write to file with .write I've already done this but the example is below
 #o_file.write('First line\nSecond line\n')
 
@@ -21,7 +21,7 @@ for line in o_file:
     l = line.strip()
     line_list.append(l)
     print l
-print line_list
+print line_list, '\n'
 
 #with this method you must close the file or it will stay open in memory        
 o_file.close()
@@ -31,7 +31,7 @@ o_file.close()
 
 with open('method1.txt', 'rwb') as o2_file:
     print 'see that the open file is an object in memory:'
-    print o2_file
+    print o2_file, '\n'
 
     line_list = []
     for line in o2_file:
@@ -39,4 +39,4 @@ with open('method1.txt', 'rwb') as o2_file:
         l = line.strip()
         line_list.append(l)
         print l
-    print line_list
+    print line_list, '\n'
