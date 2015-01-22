@@ -1,0 +1,1 @@
+The python file ‘file_opening.py’ contains a few basic methods of opening and reading files. Open the file and play run/edit it to learn file opening also see the python documentation for more info: https://docs.python.org/2/tutorial/inputoutput.html#reading-and-writing-files
