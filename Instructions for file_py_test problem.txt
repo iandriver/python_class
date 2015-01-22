@@ -1,4 +1,4 @@
-‘file_y_test’ contains 500 directories each with the format “Sample_6digit random string’.
+‘file_py_test’ contains 500 directories each with the format “Sample_6digit random string’.
 Within each directory is a text file of the format ‘fastq_001_6digit random string’.  In each text file is a 6 digit random string.  
 
 Instructions for problem 1:
